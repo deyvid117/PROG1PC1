@@ -1,1 +1,3 @@
 multiplexacion HTTP2 : 
+permite asegurar el envio de datos de maera que no pueda ser capturado ni tergiversado , el cual es enviado de manera compliada, asi mismo permite
+que el buscador envie y reciba datos mas rapido y pueda renderizarlo mucho mas rapido
